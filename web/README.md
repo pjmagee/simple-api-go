@@ -1,0 +1,1 @@
+﻿Web application-specific assets (static files, etc.).

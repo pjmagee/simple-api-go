@@ -1,0 +1,1 @@
+﻿Additional external tests and test data. Unit tests in Go live in the same package as the source files. However, public API tests or integration tests, for example, should live in /test.
